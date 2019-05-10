@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kirill/Code/Chapter01/HelloCS/HelloCS.csproj",
+      "projectUniqueName": "/home/kirill/Code/Chapter01/vscode/HelloCS/HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "/home/kirill/Code/Chapter01/HelloCS/HelloCS.csproj",
+      "projectPath": "/home/kirill/Code/Chapter01/vscode/HelloCS/HelloCS.csproj",
       "packagesPath": "/home/kirill/.nuget/packages/",
-      "outputPath": "/home/kirill/Code/Chapter01/HelloCS/obj/",
+      "outputPath": "/home/kirill/Code/Chapter01/vscode/HelloCS/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -6,7 +6,7 @@ namespace Basics
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             System.Data.DataSet ds;
             System.Net.Http.HttpClient client;

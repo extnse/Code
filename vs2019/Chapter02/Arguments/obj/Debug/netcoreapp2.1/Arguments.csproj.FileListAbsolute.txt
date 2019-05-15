@@ -1,0 +1,10 @@
+C:\Users\User\Code\vs2019\Chapter02\Arguments\bin\Debug\netcoreapp2.1\Arguments.deps.json
+C:\Users\User\Code\vs2019\Chapter02\Arguments\bin\Debug\netcoreapp2.1\Arguments.runtimeconfig.json
+C:\Users\User\Code\vs2019\Chapter02\Arguments\bin\Debug\netcoreapp2.1\Arguments.runtimeconfig.dev.json
+C:\Users\User\Code\vs2019\Chapter02\Arguments\bin\Debug\netcoreapp2.1\Arguments.dll
+C:\Users\User\Code\vs2019\Chapter02\Arguments\bin\Debug\netcoreapp2.1\Arguments.pdb
+C:\Users\User\Code\vs2019\Chapter02\Arguments\obj\Debug\netcoreapp2.1\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\User\Code\vs2019\Chapter02\Arguments\obj\Debug\netcoreapp2.1\Arguments.AssemblyInfoInputs.cache
+C:\Users\User\Code\vs2019\Chapter02\Arguments\obj\Debug\netcoreapp2.1\Arguments.AssemblyInfo.cs
+C:\Users\User\Code\vs2019\Chapter02\Arguments\obj\Debug\netcoreapp2.1\Arguments.dll
+C:\Users\User\Code\vs2019\Chapter02\Arguments\obj\Debug\netcoreapp2.1\Arguments.pdb

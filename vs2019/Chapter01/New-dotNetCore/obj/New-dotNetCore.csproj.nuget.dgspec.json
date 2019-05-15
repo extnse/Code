@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Code2\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj": {}
+    "C:\\Users\\User\\Code\\vs2019\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Code2\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj": {
+    "C:\\Users\\User\\Code\\vs2019\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Code2\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Code\\vs2019\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj",
         "projectName": "New-dotNetCore",
-        "projectPath": "C:\\Users\\User\\Documents\\Code2\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj",
+        "projectPath": "C:\\Users\\User\\Code\\vs2019\\Chapter01\\New-dotNetCore\\New-dotNetCore.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Code2\\Chapter01\\New-dotNetCore\\obj\\",
+        "outputPath": "C:\\Users\\User\\Code\\vs2019\\Chapter01\\New-dotNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

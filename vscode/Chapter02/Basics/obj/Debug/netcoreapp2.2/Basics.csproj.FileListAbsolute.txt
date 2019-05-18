@@ -1,0 +1,11 @@
+/home/kirill/Code/vscode/Chapter02/Basics/bin/Debug/netcoreapp2.2/Basics.deps.json
+/home/kirill/Code/vscode/Chapter02/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.json
+/home/kirill/Code/vscode/Chapter02/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.dev.json
+/home/kirill/Code/vscode/Chapter02/Basics/bin/Debug/netcoreapp2.2/Basics.dll
+/home/kirill/Code/vscode/Chapter02/Basics/bin/Debug/netcoreapp2.2/Basics.pdb
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.csprojAssemblyReference.cache
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.csproj.CoreCompileInputs.cache
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfoInputs.cache
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfo.cs
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.dll
+/home/kirill/Code/vscode/Chapter02/Basics/obj/Debug/netcoreapp2.2/Basics.pdb

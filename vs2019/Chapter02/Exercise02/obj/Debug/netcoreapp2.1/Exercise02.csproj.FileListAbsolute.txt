@@ -8,3 +8,4 @@ C:\Users\User\Code\vs2019\Chapter02\Exercise02\obj\Debug\netcoreapp2.1\Exercise0
 C:\Users\User\Code\vs2019\Chapter02\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.AssemblyInfo.cs
 C:\Users\User\Code\vs2019\Chapter02\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.dll
 C:\Users\User\Code\vs2019\Chapter02\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.pdb
+C:\Users\User\Code\vs2019\Chapter02\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.csprojAssemblyReference.cache

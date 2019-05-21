@@ -1,0 +1,11 @@
+/home/kirill/Code/Master/bin/Debug/netcoreapp2.2/Master.deps.json
+/home/kirill/Code/Master/bin/Debug/netcoreapp2.2/Master.runtimeconfig.json
+/home/kirill/Code/Master/bin/Debug/netcoreapp2.2/Master.runtimeconfig.dev.json
+/home/kirill/Code/Master/bin/Debug/netcoreapp2.2/Master.dll
+/home/kirill/Code/Master/bin/Debug/netcoreapp2.2/Master.pdb
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.csprojAssemblyReference.cache
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.csproj.CoreCompileInputs.cache
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.AssemblyInfoInputs.cache
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.AssemblyInfo.cs
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.dll
+/home/kirill/Code/Master/obj/Debug/netcoreapp2.2/Master.pdb

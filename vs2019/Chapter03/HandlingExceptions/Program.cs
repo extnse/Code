@@ -25,7 +25,7 @@ namespace HandlingExceptions
             {
                 WriteLine("The age you entered is not a valid number format.");
             }
-            catch(Exception ex) // All types of exceptions
+            catch(Exception ex) // All exceptions
             {
                 WriteLine($"{ex.GetType()} - {ex.Message}");
             }

@@ -8,7 +8,7 @@ namespace SelectionStatements
     {
         static void Main(string[] args)
         {
-            /*object o = 3;
+            object o = 3;
             int j = 4;
             if(o is int i)
             {
@@ -17,9 +17,9 @@ namespace SelectionStatements
             else
             {
                 WriteLine("o is not an INT, so it cannot multiply.");
-            }*/
+            }
 
-            /*A_label:
+            A_label:
             var number = (new Random()).Next(1, 7);
             WriteLine($"My random number is {number}");
             switch (number)
@@ -42,12 +42,12 @@ namespace SelectionStatements
                 default:
                     WriteLine("default");
                     break;
-            } //end switch*/
+            } //end switch
+
             string path = @"C:\Users\User\Code\vs2019\Chapter03";
             Stream s = File.Open(
                 Path.Combine(path, "file.txt"),
                 FileMode.OpenOrCreate);
-
             switch(s)
             {
                 case FileStream writeableFile when s.CanWrite:
@@ -57,13 +57,13 @@ namespace SelectionStatements
                     WriteLine("The stream is to a read-only file.");
                     break;
                 case MemoryStream ms:
-                    WriteLine("the stram is to a memory address.");
+                    WriteLine("the stream is to a memory address.");
                     break;
                 default: //checked last, no matter the positon
-                    WriteLine("the stram is some other type.");
+                    WriteLine("the stream is some other type.");
                     break;
                 case null:
-                    WriteLine("The stram is null.");
+                    WriteLine("The stream is null.");
                     break;
             }
         }

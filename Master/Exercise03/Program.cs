@@ -20,7 +20,11 @@ namespace Exercise03
                         WriteLine("Warning: Possible overflow. Continue anyway? y/n");
                         answer = ReadLine();
                     }
-                    while (answer != "y");
+                    while (answer != "y" & answer != "n");
+                    if(answer == "n")
+                    {
+                        WriteLine("Exiting, maybe");
+                    }
                 }
                 for(byte i = 0; i<max; i++)
                 { WriteLine(i); }

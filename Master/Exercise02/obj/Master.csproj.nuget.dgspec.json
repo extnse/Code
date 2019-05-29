@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kirill/Code/Master/Master.csproj": {}
+    "/home/kirill/Code/Master/Exercise02/Master.csproj": {}
   },
   "projects": {
-    "/home/kirill/Code/Master/Master.csproj": {
+    "/home/kirill/Code/Master/Exercise02/Master.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kirill/Code/Master/Master.csproj",
+        "projectUniqueName": "/home/kirill/Code/Master/Exercise02/Master.csproj",
         "projectName": "Master",
-        "projectPath": "/home/kirill/Code/Master/Master.csproj",
+        "projectPath": "/home/kirill/Code/Master/Exercise02/Master.csproj",
         "packagesPath": "/home/kirill/.nuget/packages/",
-        "outputPath": "/home/kirill/Code/Master/obj/",
+        "outputPath": "/home/kirill/Code/Master/Exercise02/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

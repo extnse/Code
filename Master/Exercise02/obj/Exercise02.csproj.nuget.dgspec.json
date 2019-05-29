@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/kirill/Code/Master/Exercise02/Master.csproj": {}
+    "C:\\Users\\User\\Code\\Master\\Exercise02\\Exercise02.csproj": {}
   },
   "projects": {
-    "/home/kirill/Code/Master/Exercise02/Master.csproj": {
+    "C:\\Users\\User\\Code\\Master\\Exercise02\\Exercise02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kirill/Code/Master/Exercise02/Master.csproj",
-        "projectName": "Master",
-        "projectPath": "/home/kirill/Code/Master/Exercise02/Master.csproj",
-        "packagesPath": "/home/kirill/.nuget/packages/",
-        "outputPath": "/home/kirill/Code/Master/Exercise02/obj/",
+        "projectUniqueName": "C:\\Users\\User\\Code\\Master\\Exercise02\\Exercise02.csproj",
+        "projectName": "Exercise02",
+        "projectPath": "C:\\Users\\User\\Code\\Master\\Exercise02\\Exercise02.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Code\\Master\\Exercise02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/kirill/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

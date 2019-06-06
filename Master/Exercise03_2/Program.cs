@@ -9,20 +9,12 @@ namespace Exercise03_2
         {
             for(int i = 1; i <= 100; i++)
             {
-                if(i % 5 == 0 || i % 3 == 0 || i % 4 == 0)
+                if(i % 5 == 0 || i % 3 == 0)
                 {
-                    if(i % 4 == 0 || i % 3 == 0)
+                    if(i % 3 == 0)
                     {
-                        if(i % 3 == 0)
-                        {
-                            WriteLine("%3");
-                            continue;
-                        }
-                        else
-                        {
-                            WriteLine("%4");
-                            continue;
-                        }
+                        WriteLine("%3");
+                        continue;
                     }
                     else
                     {
@@ -30,8 +22,8 @@ namespace Exercise03_2
                         continue;
                     }
                 }
-                WriteLine(i);
-            }           
-        }
+                WriteLine(i);        
+            }
+        }           
     }
 }

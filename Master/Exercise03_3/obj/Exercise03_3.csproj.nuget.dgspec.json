@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kirill/Code/Master/Exercise03_2/Exercise03_2.csproj": {}
+    "/home/kirill/Code/Master/Exercise03_3/Exercise03_3.csproj": {}
   },
   "projects": {
-    "/home/kirill/Code/Master/Exercise03_2/Exercise03_2.csproj": {
+    "/home/kirill/Code/Master/Exercise03_3/Exercise03_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kirill/Code/Master/Exercise03_2/Exercise03_2.csproj",
-        "projectName": "Exercise03_2",
-        "projectPath": "/home/kirill/Code/Master/Exercise03_2/Exercise03_2.csproj",
+        "projectUniqueName": "/home/kirill/Code/Master/Exercise03_3/Exercise03_3.csproj",
+        "projectName": "Exercise03_3",
+        "projectPath": "/home/kirill/Code/Master/Exercise03_3/Exercise03_3.csproj",
         "packagesPath": "/home/kirill/.nuget/packages/",
-        "outputPath": "/home/kirill/Code/Master/Exercise03_2/obj/",
+        "outputPath": "/home/kirill/Code/Master/Exercise03_3/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

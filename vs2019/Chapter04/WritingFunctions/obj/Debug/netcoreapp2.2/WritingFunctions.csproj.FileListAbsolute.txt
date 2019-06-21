@@ -8,3 +8,4 @@ C:\Users\User\Code\vs2019\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\Wri
 C:\Users\User\Code\vs2019\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.AssemblyInfo.cs
 C:\Users\User\Code\vs2019\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.dll
 C:\Users\User\Code\vs2019\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.pdb
+C:\Users\User\Code\vs2019\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.csprojAssemblyReference.cache

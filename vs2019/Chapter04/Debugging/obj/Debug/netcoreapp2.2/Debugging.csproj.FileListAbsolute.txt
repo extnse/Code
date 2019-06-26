@@ -1,0 +1,10 @@
+C:\Users\User\Code\vs2019\Chapter04\Debugging\bin\Debug\netcoreapp2.2\Debugging.deps.json
+C:\Users\User\Code\vs2019\Chapter04\Debugging\bin\Debug\netcoreapp2.2\Debugging.runtimeconfig.json
+C:\Users\User\Code\vs2019\Chapter04\Debugging\bin\Debug\netcoreapp2.2\Debugging.runtimeconfig.dev.json
+C:\Users\User\Code\vs2019\Chapter04\Debugging\bin\Debug\netcoreapp2.2\Debugging.dll
+C:\Users\User\Code\vs2019\Chapter04\Debugging\bin\Debug\netcoreapp2.2\Debugging.pdb
+C:\Users\User\Code\vs2019\Chapter04\Debugging\obj\Debug\netcoreapp2.2\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\User\Code\vs2019\Chapter04\Debugging\obj\Debug\netcoreapp2.2\Debugging.AssemblyInfoInputs.cache
+C:\Users\User\Code\vs2019\Chapter04\Debugging\obj\Debug\netcoreapp2.2\Debugging.AssemblyInfo.cs
+C:\Users\User\Code\vs2019\Chapter04\Debugging\obj\Debug\netcoreapp2.2\Debugging.dll
+C:\Users\User\Code\vs2019\Chapter04\Debugging\obj\Debug\netcoreapp2.2\Debugging.pdb

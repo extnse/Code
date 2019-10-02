@@ -1,0 +1,11 @@
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.2/WritingFunctions.deps.json
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.2/WritingFunctions.runtimeconfig.json
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.2/WritingFunctions.runtimeconfig.dev.json
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.2/WritingFunctions.dll
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.2/WritingFunctions.pdb
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.csprojAssemblyReference.cache
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.AssemblyInfoInputs.cache
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.AssemblyInfo.cs
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.dll
+/home/kirill/Code/vscode/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.2/WritingFunctions.pdb

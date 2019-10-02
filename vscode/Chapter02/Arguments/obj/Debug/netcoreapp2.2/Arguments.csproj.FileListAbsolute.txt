@@ -1,0 +1,11 @@
+/home/kirill/Code/vscode/Chapter02/Arguments/bin/Debug/netcoreapp2.2/Arguments.deps.json
+/home/kirill/Code/vscode/Chapter02/Arguments/bin/Debug/netcoreapp2.2/Arguments.runtimeconfig.json
+/home/kirill/Code/vscode/Chapter02/Arguments/bin/Debug/netcoreapp2.2/Arguments.runtimeconfig.dev.json
+/home/kirill/Code/vscode/Chapter02/Arguments/bin/Debug/netcoreapp2.2/Arguments.dll
+/home/kirill/Code/vscode/Chapter02/Arguments/bin/Debug/netcoreapp2.2/Arguments.pdb
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.csprojAssemblyReference.cache
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.csproj.CoreCompileInputs.cache
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.AssemblyInfoInputs.cache
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.AssemblyInfo.cs
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.dll
+/home/kirill/Code/vscode/Chapter02/Arguments/obj/Debug/netcoreapp2.2/Arguments.pdb

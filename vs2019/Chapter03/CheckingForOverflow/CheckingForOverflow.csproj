@@ -2,11 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-<<<<<<< HEAD:Master/Exercise02/Exercise02.csproj
-    <TargetFramework>netcoreapp2.2</TargetFramework>
-=======
     <TargetFramework>netcoreapp3.0</TargetFramework>
->>>>>>> win10vm:vs2019/Chapter02/Arguments/Arguments.csproj
   </PropertyGroup>
 
 </Project>

@@ -8,8 +8,8 @@ namespace Basics
     {
         static void Main(string[] args)
         {
-            System.Data.DataSet ds;
-            System.Net.Http.HttpClient client;
+            //System.Data.DataSet ds;
+            //System.Net.Http.HttpClient client;
             //perebor sborok na kotorie ssilaetsya prilogenie
             foreach (var r in Assembly.GetEntryAssembly().GetReferencedAssemblies())
             {

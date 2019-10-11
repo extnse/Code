@@ -8,7 +8,7 @@ namespace WritingFunctions
         static void TimesTable(byte number)
         {
             WriteLine($"This is the {number} times table");
-            for(int row = 1; row <= 12; row++)
+            for(int row = 1; row <= 10; row++)
             {
                 WriteLine($"{row} x {number} = {row*number}");
             }
@@ -16,10 +16,19 @@ namespace WritingFunctions
 
         static void RunTimesTable()
         {
-            Write("Enter a number between 0 and 255: ");
+            Write("Enter a number between 0 and 10: ");
             if (byte.TryParse(ReadLine(), out byte number))
             {
-                TimesTable(number);
+                // We hardly need times tables for numbers from 11 to 255
+                // Added condition for number to be less or equal than 10
+                if (number <= 10)
+                {
+                    TimesTable(number);
+                }
+                else
+                {
+                    WriteLine("Number is greater than 10!");
+                }
             }
             else
             {

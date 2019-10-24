@@ -40,7 +40,8 @@ namespace WritingFunctions
         {
             //RunTimesTable();
             //RunSalesTax();
-            RunCardinalToOrdinal();
+            //RunCardinalToOrdinal();
+            RunFactorial();
         }
 
         static decimal SalesTax(decimal amount, string twoLetterRegionCode)
@@ -136,6 +137,35 @@ namespace WritingFunctions
             for (int number = 1; number <=40; number++)
             {
                 Write($"{CardinalToOrdinal(number)} ");
+            }
+        }
+
+        static int Factorial(int number)
+        {
+            if (number < 1)
+            {
+                return 0;
+            }
+            else if (number == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                return number * Factorial(number - 1);
+            }
+        }
+
+        static void RunFactorial()
+        {
+            Write("Enter a number: ");
+            if (int.TryParse(ReadLine(), out int number))
+            {
+                WriteLine($"{number:N0}! = {Factorial(number):N0}");
+            }
+            else
+            {
+                WriteLine("You did not enter a valid number!");
             }
         }
 
